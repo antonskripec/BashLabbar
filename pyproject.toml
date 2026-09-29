@@ -1,0 +1,13 @@
+[project]
+name = "bashlabbar"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.pyrefly]
+preset = "strict"
+
+[dependency-groups]
+dev = [
+    "pyrefly>=1.3.2",
+]
