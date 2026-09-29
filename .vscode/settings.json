@@ -1,4 +1,5 @@
 {
     "python.pyrefly.typeCheckingMode": "strict",
-    "editor.inlayHints.enabled": "on"
+    "editor.inlayHints.enabled": "on",
+    "python.analysis.autoImportCompletions": true
 }
